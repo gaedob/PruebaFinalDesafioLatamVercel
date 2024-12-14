@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.desafiolatam.weatherlatamtest1.app-mergeDebugResources-48:/layout/item_weather.xml",
+        "source": "com.desafiolatam.weatherlatamtest1.app-main-51:/layout/item_weather.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatamtest1.app-mergeDebugResources-48:/layout/fragment_details.xml",
+        "source": "com.desafiolatam.weatherlatamtest1.app-main-51:/layout/fragment_details.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatamtest1.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.desafiolatam.weatherlatamtest1.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatamtest1.app-mergeDebugResources-48:/layout/fragment_home.xml",
+        "source": "com.desafiolatam.weatherlatamtest1.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatamtest1.app-mergeDebugResources-48:/layout/fragment_settings.xml",
+        "source": "com.desafiolatam.weatherlatamtest1.app-main-51:/layout/fragment_settings.xml"
+    }
+]
